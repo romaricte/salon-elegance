@@ -71,7 +71,9 @@ const Footer = () => {
 
         <div className="mt-8 pt-8 border-t border-gray-700 text-center">
           <p className="text-sm text-gray-400">
-            © {new Date().getFullYear()} Salon Élégance. Tous droits réservés.
+            &copy; {new Date().getFullYear()} Salon Élégance. Tous droits réservés.
+            <br />
+            Développé par <a href="https://github.com/RomaricTene" className="hover:text-accent transition-colors">Romaric Tene</a>.
           </p>
         </div>
       </div>

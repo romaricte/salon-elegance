@@ -22,7 +22,7 @@ const Contact = () => {
                 <h3 className="text-lg font-semibold text-primary mb-1">
                   Téléphone
                 </h3>
-                <p className="text-secondary">+33 1 23 45 67 89</p>
+                <p className="text-secondary">+237 6 53 45 67 89</p>
               </div>
             </div>
 
@@ -43,7 +43,7 @@ const Contact = () => {
                 <p className="text-secondary">
                   123 Avenue de la Beauté
                   <br />
-                  75000 Paris, France
+                  Yaounde 4 , Cameroun
                 </p>
               </div>
             </div>

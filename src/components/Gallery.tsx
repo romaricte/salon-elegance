@@ -16,7 +16,7 @@ const images = [
     alt: 'Coiffage',
   },
   {
-    url: 'https://images.unsplash.com/photo-1601597565151-72d45702859d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80',
+    url: 'https://images.unsplash.com/photo-1622286342621-4bd786c2447c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80',
     alt: 'Soin',
   },
   {

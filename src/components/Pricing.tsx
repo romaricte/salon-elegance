@@ -1,16 +1,16 @@
 const prices = {
   femmes: [
-    { service: 'Coupe + Brushing', prix: '45€' },
-    { service: 'Coloration', prix: '55€' },
-    { service: 'Mèches', prix: '75€' },
-    { service: 'Balayage', prix: '85€' },
-    { service: 'Soin profond', prix: '35€' },
+    { service: 'Coupe + Brushing', prix: '4500XAF' },
+    { service: 'Coloration', prix: '5500XAF' },
+    { service: 'Mèches', prix: '7500XAF' },
+    { service: 'Balayage', prix: '8500XAF' },
+    { service: 'Soin profond', prix: '3500XAF' },
   ],
   hommes: [
-    { service: 'Coupe classique', prix: '25€' },
-    { service: 'Coupe + Barbe', prix: '35€' },
-    { service: 'Coloration', prix: '45€' },
-    { service: 'Soin du cuir chevelu', prix: '30€' },
+    { service: 'Coupe classique', prix: '2500XAF' },
+    { service: 'Coupe + Barbe', prix: '3500XAF' },
+    { service: 'Coloration', prix: '4500XAF' },
+    { service: 'Soin du cuir chevelu', prix: '3000XAF' },
   ],
 };
 
